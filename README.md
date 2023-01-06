@@ -1,0 +1,1 @@
+# keycloak-sha1-password-hash-provider
